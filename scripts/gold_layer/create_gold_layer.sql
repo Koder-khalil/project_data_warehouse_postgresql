@@ -140,5 +140,5 @@ BEGIN
 END;
 $$;
 
-call silver.load_silver();
+call gold.load_gold();
 
